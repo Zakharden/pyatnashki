@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Tue Dec 13 23:13:07 2022
+# Process ID: 10532
+# Current directory: C:/Schemotehh/Pyatnashki/Pyatnashki.runs/synth_1
+# Command line: vivado.exe -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file: C:/Schemotehh/Pyatnashki/Pyatnashki.runs/synth_1/top.vds
+# Journal file: C:/Schemotehh/Pyatnashki/Pyatnashki.runs/synth_1\vivado.jou
+# Running On: DESKTOP-UQRQIBB, OS: Windows, CPU Frequency: 2304 MHz, CPU Physical cores: 4, Host memory: 17070 MB
+#-----------------------------------------------------------
+source top.tcl -notrace
